@@ -1,0 +1,26 @@
+{
+  "name": "corsproxy",
+  "version": "1.0.0",
+  "description": "corsproxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NilsNiBe/corsproxy.git"
+  },
+  "keywords": [
+    "cors",
+    "proxy"
+  ],
+  "author": "NilsNiBe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NilsNiBe/corsproxy/issues"
+  },
+  "homepage": "https://github.com/NilsNiBe/corsproxy#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
